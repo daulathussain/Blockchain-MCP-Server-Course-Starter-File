@@ -2,7 +2,7 @@
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2025/10/Build-a-Binance-MCP-Server-with-OpenAI-Integration-Node.js-JavaScript-Binance-API-OpenAI-Project.jpg)
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-a-binance-mcp-server-with-openai-integration-or-node.js-+-javascript-+-binance-api-+-openai-project)
 
 #### Setup Video
 
