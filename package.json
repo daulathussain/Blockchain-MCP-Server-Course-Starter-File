@@ -1,0 +1,28 @@
+{
+  "name": "binance-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server for Binance Crypto Data Integration with OpenAI",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "client": "node src/client.js",
+    "dev": "node --watch src/index.js",
+    "clear": "rm -rf node_modules package-lock.json"
+  },
+  "keywords": [
+    "mcp",
+    "binance",
+    "crypto",
+    "openai",
+    "model-context-protocol"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "axios": "^1.7.9",
+    "openai": "^4.77.3",
+    "dotenv": "^16.4.7"
+  }
+}
