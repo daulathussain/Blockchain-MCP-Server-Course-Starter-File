@@ -1,12 +1,12 @@
 # Binance MCP Server with OpenAI Integration
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2025/10/Build-a-Binance-MCP-Server-with-OpenAI-Integration-Node.js-JavaScript-Binance-API-OpenAI-Project.jpg)
+![alt text](https://www.daulathussain.com/wp-content/uploads/2025/10/Create-MCP-Server-Terminal-Chat-Bot-Using-Node.js-LLM-JavaScript-Full-MCP-Server-Tutorial.jpeg)
 
 - [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-a-binance-mcp-server-with-openai-integration-or-node.js-+-javascript-+-binance-api-+-openai-project)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/Ffch-9167Zk?si=Wjo9ZgEf_vryi4pD)
 
 A Model Context Protocol (MCP) server that connects OpenAI with Binance's cryptocurrency exchange API. Ask questions about crypto prices, trading volumes, order books, and market data directly through your terminal using natural language powered by OpenAI.
 
